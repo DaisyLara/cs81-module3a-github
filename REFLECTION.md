@@ -1,0 +1,8 @@
+What did you learn about using Git and GitHub?
+    I didn't realize that Git was a local version of the project folders/files we've been working on and that GitHub is the public "online" version. I also learned that a "commit" is the final step of "publishing" the files and that they otherwise stay in some kind of active working mode? This feels abnormal as someone who works with cloud services and prefers an auto-save feature, but it's only a small adjustment.
+What was most confusing or frustrating?
+    Working out of my terminal felt scary and overwhelming, but once I realized that it was just folder control, I was able to integrate my new Visual Studio Code knowledge with the new git commands, and I was able to navigate a lot easier. The "touch" command for example: No idea what that was, but once I went to go look for the file and after a little bit of googling, it felt very normal. Weird name though. 
+Why do you think developers use Git?
+    From my understanding, Git is good for version control. After accidentally committing a blank file, I am able to see that that version was blank and the edits aftereward. If I were writing code that broke something, it would be super helpful to go back to the previous commit to see the differences in the code, or to revert back to the code if necessary.
+How might this help with larger projects in the future?
+    I was initially working on the assignment from start to finish before committing anything, and now I've realized that it's better to make smaller commits. The assignments feel a lot more digestible in small chunks anyway, and pushing to GitHub would make working with a team a lot more efficient by providing visibility.
